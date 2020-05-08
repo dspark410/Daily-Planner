@@ -46,6 +46,7 @@
 }
 
 .p {
+    min-width: 60px;
     border-top: 2px grey dotted;
     border-bottom: 2px grey dotted;
     border-right: 2px grey dotted;;
