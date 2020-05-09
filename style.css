@@ -16,7 +16,6 @@
 }
 
 .text-header, .time-header {
-
     margin-top: 25px;
 }
 
@@ -32,6 +31,7 @@
     margin: auto;
     height: 600px;   
 }
+
 .text {
    resize: none; 
    max-width: 80%;
@@ -42,7 +42,6 @@
 .flex {
     display: flex;
     justify-content: center;
-    margin-bottom: 1px; 
 }
 
 .p {
@@ -51,7 +50,6 @@
     border-bottom: 2px grey dotted;
     border-right: 2px grey dotted;;
     border-left: none;
-    
 }
 
 .button {
