@@ -1,9 +1,8 @@
-# Daily-Planner
+# Work Day Scheduler
 
 ## Description
 
-This project is a simple planner that saves your events that you store in the the designated time. It will update dynamically with indicating colors representing the past, current, or future time event.
-
+A simple calendar application that allows the user to save events for each hour of the day.
 
 ## Usage
 Daily Planner Images:
